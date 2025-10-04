@@ -2,6 +2,10 @@
 
 A modern, feature-rich web application for managing Slack messages with a beautiful UI. Built with React, TypeScript, and Tailwind CSS.
 
+## 📸 Screenshot
+![App Screenshot](https://github.com/anujsoni3/Slack_messaging/blob/main/Screenshot%202025-10-04%20203641.png)
+
+
 ## Features
 
 - **Slack OAuth Authentication** - Secure login via Slack OAuth 2.0
